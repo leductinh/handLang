@@ -1,0 +1,1 @@
+Trong thư mục data chứa ảnh train có thể chứa toàn bộ ảnh trong cùng thư mục data hoặc chia thành nhiều thư mục con vẫn được (file train vẫn chạy đc)
